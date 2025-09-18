@@ -43,7 +43,7 @@ The project is built using the **BLoC (Business Logic Component)** pattern to en
 
 1.  **Clone the repository**:
     ```sh
-    git clone https://github.com/Abhinand-s/product-listing-app.git
+    git clone https://github.com/Abhinand-s/product.git
     ```
 2.  **Install dependencies**:
     ```sh
